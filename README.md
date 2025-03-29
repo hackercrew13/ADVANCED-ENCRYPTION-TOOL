@@ -76,3 +76,8 @@ This project is licensed under the MIT License.
 
 ## OUTPUT
 
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/355788bc-a2aa-414a-9c96-052094cef35b" />
+
+
+
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/1e859284-1cb3-416e-846e-1a26d4a01b28" />
